@@ -1,0 +1,24 @@
+body {
+    background-color: #040303;
+    color: #781D42;
+}
+
+h1 {
+    text-align: center;
+}
+
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.calc-wrapper {
+    background-color: aliceblue;
+    width: 400px;
+    border-radius: 16px;
+}
+
+.row {
+    display: flex;
+}
